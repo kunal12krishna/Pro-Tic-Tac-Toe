@@ -1,6 +1,6 @@
 # tictactoe-pro
 
-A simple, local two-player Tic-Tac-Toe demo. This README is a short, no-frills description you can drop next to `tictactoe-pro.html`.
+A simple, local two-player Tic-Tac-Toe demo.
 
 ## What it is
 
